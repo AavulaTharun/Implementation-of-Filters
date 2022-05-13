@@ -31,12 +31,14 @@ Anaconda - Python 3.7
 ### Developed By   :Aavula Tharun
 ### Register Number:212221240003
 
-
+~~~
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 image1=cv2.imread("image.jpg")
 image2=cv2.cvtColor(image1,cv2.COLOR_BGR2RGB)
+
+~~~
 
 ### 1. Smoothing Filters
 
