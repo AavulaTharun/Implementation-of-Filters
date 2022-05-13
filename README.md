@@ -178,6 +178,8 @@ i) Using Averaging Filter
 ![ex  06-1](https://user-images.githubusercontent.com/93427201/168214918-79ed2077-4f9c-41e0-b937-de6f5209e744.png)
 
 ii) Using Weighted Averaging Filter
+
+
 ![ex  06-2](https://user-images.githubusercontent.com/93427201/168214931-404dde51-73a0-4b00-a6f2-a5c5728093ff.png)
 
 
