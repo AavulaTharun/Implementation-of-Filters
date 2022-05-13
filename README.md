@@ -26,10 +26,11 @@ Anaconda - Python 3.7
 </br>
 </br> 
 
+
 ## Program:
 ### Developed By   :Aavula Tharun
 ### Register Number:212221240003
-</br>
+
 
 import cv2
 import matplotlib.pyplot as plt
